@@ -16,5 +16,5 @@ This GitHub page serves as a digital logbook, documenting some of the projects I
 
 Thanks for stopping by my GitHub page! Check out some of my work below:
 
-[Adaptive Gaming Controller using Ultrasound](Ultras)
+[Adaptive Gaming Controller using Ultrasound](UltrasoundGamingController.md)
 
