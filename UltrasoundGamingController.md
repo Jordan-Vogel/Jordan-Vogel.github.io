@@ -10,6 +10,3 @@ The device is built around an Arduino Uno microcontroller. We used two ultrasoni
 The controller's code was developed in C++ using the Arduino IDE. To measure distances, we used ultrasound pulses. The process involves sending out a pulse and measuring the time it takes to bounce back from an object. We calculate the distance by multiplying this time by the speed of sound and then dividing by two, since the pulse travels to the object and back. Based on this distance calculation, we then determine if the object is close enough to trigger a button press. The code is attached below.
 
 For a detailed look at the implementation, [view the Arduino code here](https://github.com/Jordan-Vogel/Jordan-Vogel.github.io/blob/main/assets/GamingController.ino).
-
-
-[Click here to view the Arduino code](/assets/GamingController.ino)
