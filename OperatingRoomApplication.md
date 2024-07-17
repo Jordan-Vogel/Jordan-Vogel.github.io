@@ -25,7 +25,7 @@ The mobile application displays real-time patient information and allows clinici
 
 • Helps PACU nurses prepare for patient arrivals by showing which surgeries are nearing completion.
 
-<img src="/images/HomeInterface.jpg" alt="Home Interface" style="width: 20%;">
+<img src="/images/HomeInterface.jpg" alt="Home Interface" style="width: 30%;">
 
 ### Detailed OR View:
 
@@ -33,7 +33,7 @@ The mobile application displays real-time patient information and allows clinici
 
 • Uses a JavaScript function to query data from the VitalDB API, simulating real-time updates of patient vitals with a time-elapsed mechanism.
 
-<img src="/images/DetailedOR.jpg" alt="Detailed OR View" style="width: 20%;">
+<img src="/images/DetailedOR.jpg" alt="Detailed OR View" style="width: 30%;">
 
 ### Messaging:
 
@@ -43,7 +43,7 @@ The mobile application displays real-time patient information and allows clinici
 
 • Includes an Emergency button for notifying clinicians with a buzzing alarm.
 
-<img src="/images/Messaging.jpg" alt="Messaging" style="width: 20%;">
+<img src="/images/Messaging.jpg" alt="Messaging" style="width: 30%;">
 
 ### Profile:
 
