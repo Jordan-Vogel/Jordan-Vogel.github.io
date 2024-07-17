@@ -6,7 +6,9 @@ As an engineer, I'm fully engaged in this challenging and rewarding field. My ed
 
 This GitHub page serves as a digital portfolio, documenting some of the projects I've worked on. Check out some of my work below. If you have any questions or would like to discuss my work further, please feel free to reach out!
 
-[Email](mailto:jvogel4024@gmail.com) || [LinkedIn](https://www.linkedin.com/in/-jordanvogel/)
+[Email](mailto:jvogel4024@gmail.com) 
+
+[LinkedIn](https://www.linkedin.com/in/-jordanvogel/)
 
 # My Work:
 
