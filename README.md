@@ -12,6 +12,6 @@ This GitHub page serves as a digital portfolio, documenting some of the projects
 
 # My Work:
 
-[Adaptive Gaming Controller using Ultrasound](UltrasoundGamingController.md)
+- [Adaptive Gaming Controller using Ultrasound](UltrasoundGamingController.md)
 
-[Capstone Project: Remote Monitoring of Anesthesia Equipment](OperatingRoomApplication.md)
+- [Capstone Project: Remote Monitoring of Anesthesia Equipment](OperatingRoomApplication.md)
