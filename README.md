@@ -10,3 +10,4 @@ Thanks for stopping by my GitHub page! Check out some of my work below:
 
 [Adaptive Gaming Controller using Ultrasound](UltrasoundGamingController.md)
 
+[Capstone Project: ](OperatingRoomApplication.md)
