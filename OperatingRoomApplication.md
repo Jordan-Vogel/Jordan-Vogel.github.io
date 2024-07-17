@@ -58,5 +58,3 @@ The mobile application displays real-time patient information and allows clinici
 • Feedback: 80% of polled physicians found the app useful and easy to adopt.
 
 <img src="/images/RemoteAnesthesiaMonitoringPoster.png" alt="PresentationPoster" style="width: 60%;">
-
-GitHub Repository: Capstone Project Repository
